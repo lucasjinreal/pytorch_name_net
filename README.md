@@ -2,7 +2,7 @@
 
 本repo基于conditional rnn，如果对condition rnn不是非常了解也没有关系，大概原理就是根据给定的条件来生成不同的东西。我之前做过一个自动作诗机器人，近期打算用conditional RNN进行重构，这应该是个先行版本，最终目的就是指定不同年代创作不同的古诗，比如做宋词还是唐诗，还是汉律，还是现代诗，当然也欢迎大家直接把这个repo进行扩展。
 
-![PicName](http://ofwzcunzi.bkt.clouddn.com/mYeMFWBlXniMCmbN.png）
+![PicName](http://ofwzcunzi.bkt.clouddn.com/mYeMFWBlXniMCmbN.png)
 
 # Done
 
