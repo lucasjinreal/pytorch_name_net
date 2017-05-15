@@ -27,5 +27,5 @@ python3 generate.py company 国
 # Copyright
 
 ```
-this repo implement by Jin Fagang, owns the copyriht of datasets, please it user Apache License 2.0
+this repo implement by Jin Fagang, owns the copyriht of datasets, please use it under Apache License 2.0
 ```
